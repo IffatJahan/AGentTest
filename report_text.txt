@@ -1,0 +1,227 @@
+
+--- Page 1 ---
+Appendix A: SUMMARY OF FINANCIAL METRICS
+
+Balance Sheet Metrics 2022 2023 2024
+Cash and bank balance 22,038.78 20,104.37 20,351.76
+Balance with other banks 10,175.77 8,642.06 4,064.45
+and Fls
+Money at call and short 1,700.00 0.00 0.00
+notice
+Investments 59,263.72 57,262.10 55,915.57
+Loans & advances 266,676.89 289,392.27 329,534.65
+Fixed assets 3,310.71 4,920.51 4,871.28
+Other assets 22,378.80 34,080.25 34,883.05
+Non-banking assets 0.00 0.00 5.27
+Total Assets 385,544.68 414,401.58 449,626.04
+Borrowings from bank & Fis 27,931.99 30,267.90 22,307.16
+Subordinated bonds 13,675.00 10,506.00 9,956.00
+Money at call and short 0.00 0.00 0.00
+notice
+Deposits & other accounts 296,486.25 316,870.64 347,625.28
+Other liabilities 22,616.48 | 29,403.18 42,694.74
+Total Liabilities 360,709.72 387,047.72 422,583.18
+Paid-up capital 11,473.78 12,334.31 12,334.31
+Statutory reserve 8,697.33 9,749.46 10,040.99
+Income Statement Metrics 2022 2023 2024
+Net Interest Income 4,882.78 4,150.39 4,989.75
+Income from investment 3,030.24 3,533.55 3,572.03
+Comm., exchange and brokerage 8,744.87 7,429.44 4,970.52
+inc.
+Other operating income 1,650.36 | 2,550.88 2,544.95
+Total operating income 18,308.25 17,664.26 16,077.26
+Total operating expenses 8,429.86 | 8,518.43 8,285.88
+Net operating profit 9,878.40 9,145.82 7,791.38
+Total provision for loans 3,699.50 3,885.17 6,333.76
+Net profit before tax 6,178.90 5,260.65 1,457.62
+Net profit after tax 4,031.06 | 4,345.53 1,454.59
+
+
+--- Page 2 ---
+APPENDIX B: SUMMARY ANALYTICS
+
+Particulars 2022 2023 2024
+CRAR 14.2% 13.6% 10.5%
+Advance Deposit Ratio (ADR) 89.9% 91.3% 94.8%
+NPL as % of Total loans 2.9% 5.0% 22.9%
+NPL as % of Total assets 1.99% 3.49% 16.80%
+Leverage Ratio 5.49% 5.20% 4.46%
+Liquidity Coverage Ratio (LCR) 119.63% 110.25% 105.62%
+Net Stable Funding Ratio (NSFR) 122.23% 117.80% 109.67%
+Cost/Income Ratio 46.0% 48.2% 51.5%
+Interest/Non interest income ratio 36.4% 30.7% 45.0%
+Total asset growth 7.87% 7.48% 8.50%
+Deposit growth 10.3% 6.9% 9.7%
+Loan as % of Total assets 69.17% 69.83% 73.29%
+Deposits / Liabilities 82.20% 81.87% 82.26%
+Borrowings / Liabilities 11.53% 10.53% 7.63%
+Equity to Loans 9.31% 9.45% 8.21%
+Equity to Total assets 6.44% 6.60% 6.01%
+Tier | Capital Ratio 9.02% 9.18% 7.11%
+Tier Il Capital Ratio 5.16% 4.40% 3.43%
+Net Interest Margin (NIM) 1.8% 1.4% 1.6%
+Cost of funds 4.5% 4.8% 6.4%
+Avg. yield on Loans 7.1% 7.0% 8.5%
+Avg. yield on Investments 5.1% 6.2% 6.4%
+Net interest income to Earning 1.4% 1.1% 1.3%
+assets
+
+Earning assets to Total assets 93.3% 90.6% 91.2%
+Operating costs to Total assets 2.2% 2.1% 1.8%
+Operating margin 54.0% 51.8% 48.5%
+Net income margin 22.0% 24.6% 9.0%
+ROE 17.1% 16.7% 5.3%
+ROA 1.1% 1.1% 0.3%
+
+
+--- Page 3 ---
+APPENDIX C: LONG TERM RATING DETAILS
+
+Rating Definition
+
+AAA
+Triple A
+(Highest
+Safety)
+
+AAt, AA,
+AA-
+Double A
+(High Safety)
+
+A+, A, A-
+Single A
+(Adequate
+Safety)
+
+BBB+, BBB,
+BBB-
+Triple B
+(Moderate
+Safety)
+
+BB+, BB, BB-
+Double B
+(Inadequate
+Safety)
+
+B+, B, B-
+Single B
+(Risky)
+
+CC+, CC, CC-
+Double C
+(Vulnerable)
+
+Investment grade. Highest credit quality with lowest
+expectation of credit risk. When assigned this rating
+indicates the obligor has exceptionally strong capacity to
+meet its financial obligations and it is highly unlikely that
+this capacity will be impacted adversely by foreseeable
+events.
+
+Investment grade. Very high credit quality and minimal
+expectation of credit risk. When assigned this rating
+indicates the obligor has very strong capacity to meet its
+financial obligations and is unlikely to be impacted
+adversely by foreseeable events.
+
+Investment grade. High credit quality and low expectation
+of credit risk. When assigned this rating indicates the
+obligor has strong capacity to meet its financial obligations
+but may be vulnerable to adverse economic conditions
+compared to obligors with higher credit ratings.
+
+Investment grade. Good credit quality and moderate
+expectation of credit risk. When assigned this rating
+indicates the obligor has adequate capacity to meet its
+financial obligations but this capacity remains more
+vulnerable to adverse economic conditions.
+
+Speculative grade. Substantial credit risk. When assigned
+this rating indicates the obligor has business or other
+alternatives to meet current financial obligations but is
+substantially vulnerable to adverse economic conditions
+that may impair ability to meet such obligations in the
+future.
+
+Highly Speculative grade. High credit risk. When assigned
+this rating indicates the obligor has business or other
+alternatives to currently meet its financial obligations but
+the degree of certainty regarding timely payment of
+financial obligations is doubtful unless circumstances
+improve and remain favorable.
+
+Highly Vulnerable grade. Very High credit risk. When
+assigned this rating indicates the obligor is near to default
+and the degree of certainty regarding timely payment of
+financial obligations is doubtful unless circumstances
+improve. This rating may indicate that an insolvency
+petition has been filed or similar action has been taken,
+but payments on the obligation are being continued with
+high degree of external support.
+
+--- Page 4 ---
+C+, C, C-
+Single C
+(Near to
+Default)
+
+Default Imminent. This category for an institution is
+considered to be either currently in default or expected to
+be in default with high probability. The obligor with this
+rating is unlikely to meet maturing financial obligations.
+
+D
+Single D
+(Default)
+
+In Default. This category for an institution is of the lowest
+credit quality. The rating indicates the obligor has already
+failed to meet its financial obligations and may have
+entered bankruptcy proceedings.
+
+
+--- Page 5 ---
+APPENDIX D: SHORT TERM RATING DETAILS
+
+Rating Definition
+
+Highest Grade
+
+Highest certainty of timely payment. Short-term liquidity
+ST-1 including internal fund generation is very strong and
+access to alternative sources of funds is outstanding,
+Safety is almost like risk free Government short-term
+obligations.
+
+High Grade
+
+ST-2 High certainty of timely payment. Liquidity factors are
+strong and supported by good fundamental protection
+factors. Risk factors are very small.
+
+Good Grade
+
+Good certainty of timely payment. Liquidity factors and
+ST-3 company fundamentals are sound. Although ongoing
+funding needs may enlarge total financing requirements,
+access to capital markets is good. Risk factors are small.
+
+Satisfactory Grade
+
+ST-4 Satisfactory liquidity and other protection factors qualify
+issues as to investment grade. Risk factors are larger and
+subject to more variation.
+
+Non-Investment Grade
+
+Speculative investment characteristics. Liquidity is not
+ST-5 sufficient to insure against disruption in debt service.
+Operating factors and market access may be subject to a
+high degree of variation.
+
+Default
+ST-6 Issuer failed to meet scheduled principal and/or interest
+payments.
+
