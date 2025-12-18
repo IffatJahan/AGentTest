@@ -1,4 +1,5 @@
 from typing import Annotated
+import streamlit as st
 from dotenv import load_dotenv
 from langchain_core.messages import BaseMessage, HumanMessage
 from langgraph.graph import StateGraph, START, END
@@ -44,7 +45,7 @@ class ChatState(TypedDict):
 #     temperature=0,
 #     # other params...
 # )
-model =  ChatOpenAI(model="gpt-5")
+model =  ChatOpenAI(model="gpt-5", api_key=st.secrets["OPENAI_API_KEY"])
 # model = ChatHuggingFace(llm=llm)
 
 embeddings = HuggingFaceEmbeddings(model_name="nomic-ai/nomic-embed-text-v1.5",  model_kwargs={
