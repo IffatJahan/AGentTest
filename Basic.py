@@ -5,7 +5,7 @@ from langgraph.graph import StateGraph, START, END
 load_dotenv()
 from typing import Annotated, Any, Dict, Optional, TypedDict
 from langgraph.graph import StateGraph, START, END
-from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
+# from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 from langgraph.graph.message import add_messages
 from langgraph.checkpoint.memory import InMemorySaver
 from langchain_community.tools import DuckDuckGoSearchRun
@@ -28,15 +28,15 @@ class ChatState(TypedDict):
 
     messages: Annotated[list[BaseMessage], add_messages]
 
-llm = HuggingFaceEndpoint(
-    repo_id="deepseek-ai/DeepSeek-V3.1-Terminus",
-    # repo_id="meta-llama/Llama-3.1-8B-Instruct",
-    task="text-generation",
-    max_new_tokens=512,
-    do_sample=False,
-    repetition_penalty=1.03,
-    # provider="auto",  # let Hugging Face choose the best provider for you
-)
+# llm = HuggingFaceEndpoint(
+#     repo_id="deepseek-ai/DeepSeek-V3.1-Terminus",
+#     # repo_id="meta-llama/Llama-3.1-8B-Instruct",
+#     task="text-generation",
+#     max_new_tokens=512,
+#     do_sample=False,
+#     repetition_penalty=1.03,
+#     # provider="auto",  # let Hugging Face choose the best provider for you
+# )
 
 #
 # model = ChatOllama(
